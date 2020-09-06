@@ -4,6 +4,8 @@ covid_19_data was originally downloaded from the kaggle website https://www.kagg
 
 covid_19.csv is the modified csv using the [Python script](https://github.com/IjeomaOdoko/COVID-19-CASES/blob/master/COVID-19%20cases%20by%20country%20dataset.ipynb) created using jupyter notebook.
 
-Visualizations created using Power BI.
+[Visualizations created using Power BI](https://github.com/IjeomaOdoko/COVID-19-CASES/blob/master/COVID-19%20Cases%20by%20Country%20(Aug%2030%2C%202020).pbix)
 
-[Updated as at Aug 29, 2020](https://github.com/IjeomaOdoko/COVID-19-CASES/blob/master/COVID-19%20Cases%20by%20Country%20(Aug%2030%2C%202020).pdf)
+[Snapshot pdf](https://github.com/IjeomaOdoko/COVID-19-CASES/blob/master/COVID-19%20Cases%20by%20Country%20(Aug%2030%2C%202020).pdf)
+
+Updated as at Aug 29, 2020
